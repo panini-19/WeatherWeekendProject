@@ -10,6 +10,11 @@ h1 {
     color: white
 }
 
+h3{
+    color:black;
+    background-color: lightcyan;
+}
+
 button{
     background-color:rgb(173, 224, 231);
     color:white;
